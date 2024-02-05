@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "catalog_manager.h": "c",
+        "array": "c",
+        "memory": "c",
+        "functional": "c",
+        "tuple": "c",
+        "utility": "c",
+        "passengers_catalog.h": "c",
+        "hotel_catalog.h": "c",
+        "airport_catalog.h": "c",
+        "algorithm": "c"
+    }
+}
